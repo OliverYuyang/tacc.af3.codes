@@ -1,0 +1,26 @@
+{
+  "name": "HAG3.HAT.H3K9ac_Athaliana",
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "MVPPWTRVYRVQRDIPMPLVTSGVEKGNLRELALARMDDLGLKCRDVRTREAGIQDIHHKIKPEQVELVRRDYTANEGWETFLSYEDTRQDILVGLLRLRKCGKNVTCPELMGKCSVVRELHVYGTAVPVHGRDADKLQHQGYGTLLMEEAERIARREHRSN"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "ARTKQTARKSTGGKAPRKQLATKAARKAPATGGVKKPHRF",
+        "modifications": [
+          {
+            "ptmType": "ALY",
+            "ptmPosition": 9
+          }
+        ]
+      }
+    }
+  ],
+  "modelSeeds": [1],
+  "dialect": "alphafold3",
+  "version": 1
+}
